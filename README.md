@@ -76,7 +76,7 @@ https://github.com/ruanvcg/angular-calculator/assets/62728646/4ff14ad1-f4c1-441d
 
 | Calculator (Desktop) | Calculator (Mobile) |
 |-----------------------------|--------------------------|
-|![Calculator (Desktop)](https://github.com/ruanvcg/angular-calculator/assets/62728646/5febf17a-1ade-4491-91e2-6223469ee019)|![Calculator (Mobile)](https://github.com/ruanvcg/angular-calculator/assets/62728646/525fdea5-fc8f-4c69-9b12-2ebf2d030e6d)|
+|![Calculator (Desktop)](https://github.com/ruanvcg/angular-calculator/assets/62728646/5febf17a-1ade-4491-91e2-6223469ee019)|![Calculator (Mobile)](https://github.com/ruanvcg/angular-calculator/assets/62728646/472a0e1d-2849-4a16-a21d-d68d42342696)|
 
 <!-- ### Videos:
 
