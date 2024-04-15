@@ -1,0 +1,40 @@
+<main>
+  <section class="calc">
+    <section class="visor">
+      <h1>{{ result }}</h1>
+    </section>
+
+    <section  class="numbers">
+      <div class="line">
+        <button (click)="clear()">CE</button>
+        <button (click)="clearAll()">C</button>
+        <button (click)="inverte()">±</button>
+        <button (click)="divi()">/</button>
+      </div>
+      <div class="line">
+        <button (click)="digit('7')">7</button>
+        <button (click)="digit('8')">8</button>
+        <button (click)="digit('9')">9</button>
+        <button (click)="multi()">*</button>
+      </div>
+      <div class="line">
+        <button (click)="digit('4')">4</button>
+        <button (click)="digit('5')">5</button>
+        <button (click)="digit('6')">6</button>
+        <button (click)="sub()">-</button>
+      </div>
+      <div class="line">
+        <button (click)="digit('1')">1</button>
+        <button (click)="digit('2')">2</button>
+        <button (click)="digit('3')">3</button>
+        <button (click)="sum()">+</button>
+      </div>
+      <div class="line">
+        <button> </button>
+        <button (click)="digit('0')">0</button>
+        <button (click)="digit('.')">,</button>
+        <button (click)="equal(result)">=</button>
+      </div>
+    </section>
+  </section>
+</main>
