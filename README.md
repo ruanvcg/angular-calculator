@@ -7,7 +7,7 @@
 <h1>Angular Calculator</h1>
 The "angular-calculator" project is a web application developed using Angular and TypeScript. Its primary purpose is to provide users with a simple calculator interface to perform basic mathematical operations such as addition, subtraction, multiplication, and division. The project's overarching goal is to serve as a learning platform for developers to gain proficiency in utilizing the Angular framework for building interactive web applications.
 <br></br>
-<a href=""><strong>Live Project »</strong></a>
+<a href="https://angular-calculator-ochre.vercel.app"><strong>Live Project »</strong></a>
 
 <a href="https://github.com/ruanvcg/angular-calculator"><strong>Explore the Docs »</strong></a>
 <br></br>
@@ -32,7 +32,7 @@ https://github.com/ruanvcg/angular-calculator/assets/62728646/4ff14ad1-f4c1-441d
   </ol>
 </details>
 
-### Features
+## Features
 
 - **Basic Mathematical Operations**: Enables users to perform common arithmetic operations like addition, subtraction, multiplication, and division.
 - **User-Friendly Interface**: Presents a clean and intuitive interface for effortless number input and calculation execution.
