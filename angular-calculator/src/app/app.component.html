@@ -1,7 +1,7 @@
 <main>
   <section class="calc">
     <section class="visor">
-      <h1>{{ result }}</h1>
+      <h1>{{ expression }}</h1>
     </section>
 
     <section  class="numbers">
@@ -33,7 +33,7 @@
         <button> </button>
         <button (click)="digit('0')">0</button>
         <button (click)="digit('.')">,</button>
-        <button (click)="equal(result)">=</button>
+        <button (click)="equal()">=</button>
       </div>
     </section>
   </section>
