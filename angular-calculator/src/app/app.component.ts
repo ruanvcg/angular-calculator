@@ -61,6 +61,11 @@ export class AppComponent {
   }
 
   inverte() {
+    // Verifica se há um número no visor antes de inverter
+    if (this.expression === '') {
+      return;
+    }
+  
     let inverter = parseFloat(this.expression);
     inverter = -1 * inverter;
     this.expression = String(inverter);
