@@ -80,26 +80,30 @@ export class AppComponent {
   equal(num: string){
     num = this.result;
 
-    if(this.multiplicacao == true){
-      let finalMult = parseFloat(num) * this.resultProv;
-      this.result = String(finalMult);
-      this.resultProv = parseFloat(this.result);
-      this.multiplicacao = false;
-    }else if(this.divisao == true){
-      let finalDiv = this.resultProv / parseFloat(num); // Invertendo a ordem dos operandos
-      this.result = String(finalDiv);
-      this.resultProv = finalDiv;
-      this.divisao = false;
-    }else if(this.soma == true){
-      let finalSum = parseFloat(num) + this.resultProv;
-      this.result = String(finalSum);
-      this.resultProv = parseFloat(this.result);
-      this.soma = false;
-    }else if(this.subtracao == true){
-      let finalSub = this.resultProv - parseFloat(num);
-      this.result = String(finalSub);
-      this.resultProv = parseFloat(this.result);
-      this.subtracao = false;
+    if(num != ''){
+      if(this.multiplicacao == true){
+        let finalMult = parseFloat(num) * this.resultProv;
+        this.result = String(finalMult);
+        this.resultProv = parseFloat(this.result);
+        this.multiplicacao = false;
+      }else if(this.divisao == true){
+        let finalDiv = this.resultProv / parseFloat(num); // Invertendo a ordem dos operandos
+        this.result = String(finalDiv);
+        this.resultProv = finalDiv;
+        this.divisao = false;
+      }else if(this.soma == true){
+        let finalSum = parseFloat(num) + this.resultProv;
+        this.result = String(finalSum);
+        this.resultProv = parseFloat(this.result);
+        this.soma = false;
+      }else if(this.subtracao == true){
+        let finalSub = this.resultProv - parseFloat(num);
+        this.result = String(finalSub);
+        this.resultProv = parseFloat(this.result);
+        this.subtracao = false;
+      }
+    }else{
+      num = '';
     }
   }
 }
