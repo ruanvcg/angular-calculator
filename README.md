@@ -12,7 +12,7 @@ The "angular-calculator" project is a web application developed using Angular an
 <a href="https://github.com/ruanvcg/angular-calculator"><strong>Explore the Docs »</strong></a>
 <br></br>
 
-https://github.com/ruanvcg/angular-calculator/assets/62728646/4ff14ad1-f4c1-441d-865a-f3ce8f0de93e
+https://github.com/ruanvcg/angular-calculator/assets/62728646/0a2bb236-99d7-4844-bf0d-fb4088c0f02a
 </div>
 
 <div align="left">
