@@ -78,17 +78,6 @@ https://github.com/ruanvcg/angular-calculator/assets/62728646/0a2bb236-99d7-4844
 |-----------------------------|--------------------------|
 |![Calculator (Desktop)](https://github.com/ruanvcg/angular-calculator/assets/62728646/5febf17a-1ade-4491-91e2-6223469ee019)|![Calculator (Mobile)](https://github.com/ruanvcg/angular-calculator/assets/62728646/472a0e1d-2849-4a16-a21d-d68d42342696)|
 
-<!-- ### Videos:
-
-#### 1. Add todo form animations: 
-https://github.com/Shellyda/nextjs-todo-app/assets/69990297/d0ef7d0e-8626-4cad-9578-eb8aa5568639
-
-#### 2. Cards hover effect:
-https://github.com/Shellyda/nextjs-todo-app/assets/69990297/3fbf979e-e52d-41d6-85fc-0bcdd3537464
-
-#### 3. Alerts feedbacks:
-https://github.com/Shellyda/nextjs-todo-app/assets/69990297/4ed285c6-f0b6-4f5e-858c-26bcfe7a7992 --> 
-
 ## Contributing
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve this project.
 
